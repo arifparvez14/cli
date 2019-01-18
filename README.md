@@ -41,3 +41,7 @@ control + I
 ```
 command + R
 ```
+- Lookup a variable or method type 
+```
+option + Click(left button of mouse or keypad) 
+```
