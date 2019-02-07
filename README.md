@@ -35,13 +35,17 @@ command + /
 ```
 - Format a block of code:
 ```
-control + I
+control + i
 ```
 - Run a program:
 ```
-command + R
+command + r
 ```
 - Lookup a variable or method type: 
 ```
 option + Click(left button of mouse or keypad) 
+```
+- Open a new file: 
+```
+ command + n
 ```
