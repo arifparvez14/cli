@@ -101,6 +101,10 @@ command + /
 ```
 control + i
 ```
+- Build a program:
+```
+command + b
+```
 - Run a program:
 ```
 command + r
