@@ -1,3 +1,76 @@
+# Git Command #
+Most used Git commands
+
+- Initialize git into a repository:
+```
+git init
+```
+- Know status of files, branches:
+```
+git status
+```
+- Add a single file into staging area:
+```
+git add fileName
+```
+- Add all file into staging area:
+```
+git add .
+```
+- Remove all file from staging area:
+```
+git rm --cached -r .
+```
+- Commit with message:
+```
+git commit -m "yourMessage"
+```
+- See status of files (committed or not):
+```
+git log
+```
+
+- Check the differences that made on a file:
+```
+git diff fileName
+```
+- Check status of a file:
+```
+git checkout fileName
+```
+- Add a repository to remote:
+```
+git remote add origin address
+```
+- Push local changes to remote in master branch: 
+```
+git push -u origin master 
+```
+- Clone repository: 
+```
+ git clone project_url
+```
+- Create branch: 
+```
+ git branch branch_name
+```
+- Checkout all branch: 
+```
+ git branch
+```
+- Checkout to specific branch: 
+```
+ git checkout 'branch_name'
+```
+- Marge a branch with master : 
+```
+ git master branch_name
+```
+
+
+
+
+
 # Bash Command #
 Most used command in bash MacOS
 
