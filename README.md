@@ -1,7 +1,7 @@
 # Git Command #
 Most used Git commands
 
-- Initialize git into a repository:
+- Initialize git into a directory:
 ```
 git init
 ```
