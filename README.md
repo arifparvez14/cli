@@ -8,21 +8,21 @@
 
 - **Tree Listing**
 ```
-1.  List the contents of a tree object: git ls-tree HEAD
-2.  List the contents of a specific tree object: git ls-tree HEAD assets
-3.  Show the contents inside a tree: git ls-tree HEAD assets/
+1. List the contents of a tree object: git ls-tree HEAD
+2. List the contents of a specific tree object: git ls-tree HEAD assets
+3. Show the contents inside a tree: git ls-tree HEAD assets/
 ```
 - **Filter and Log**
 ```
-1.  Filter last n log: git log -n
-2.  Filter last logs by since date: git log -since=2022-01-01
-3.  Filter last logs by until date: git log -until=2022-01-01
-4.  Filter last logs by days before git log -until=“3 days ago"
-5.  Filter log in a range of time: git log -after=2.weeks — bofore=3.days
-6.  Filter by author: git log —author=“Kevin”
-7.  Filter by keyword: git log —grep=“Initial”
-8.  Filter all from a commit to head: git log b447401938...HEAD
-9.  Any changes on a specific file: git log ViewController.swift
+1. Filter last n log: git log -n
+2. Filter last logs by since date: git log -since=2022-01-01
+3. Filter last logs by until date: git log -until=2022-01-01
+4. Filter last logs by days before git log -until=“3 days ago"
+5. Filter log in a range of time: git log -after=2.weeks — bofore=3.days
+6. Filter by author: git log —author=“Kevin”
+7. Filter by keyword: git log —grep=“Initial”
+8. Filter all from a commit to head: git log b447401938...HEAD
+9. Any changes on a specific file: git log ViewController.swift
 ```
 - **Format the commit log**
 ```
